@@ -7,3 +7,5 @@ Projects completed as part of the Codecademy Data Analyst career path.
   3. Python Cumulative Challenge Project - Linear Regression
   4. Python Portfolio Project - US Medical Insurance Costs
 
+### Data Manipulation with Pandas
+  1. Pandas Data Manipulation Challenge Project - This is Jeopardy!
