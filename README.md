@@ -9,3 +9,6 @@ Projects completed as part of the Codecademy Data Analyst career path.
 
 ### Data Manipulation with Pandas
   1. [Pandas Data Manipulation Challenge Project - This is Jeopardy!](https://nbviewer.jupyter.org/github/f-tailor/codecademy_projects/blob/main/Data%20Manipulation%20with%20Pandas/Pandas%20Data%20Manipulation%20Challenge%20Project%20-%20This%20is%20Jeopardy.ipynb)
+
+### Data Visualisation
+  1. [Matplotlib Challenge Project - Roller Coaster](https://nbviewer.jupyter.org/github/f-tailor/codecademy_projects/blob/main/Data%20Visualisation/Matplotlib%20Challenge%20Project%20-%20Roller%20Coaster.ipynb)
