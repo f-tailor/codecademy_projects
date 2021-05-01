@@ -12,3 +12,4 @@ Projects completed as part of the Codecademy Data Analyst career path.
 
 ### Data Visualisation
   1. [Matplotlib Challenge Project - Roller Coaster](https://nbviewer.jupyter.org/github/f-tailor/codecademy_projects/blob/main/Data%20Visualisation/Matplotlib%20Challenge%20Project%20-%20Roller%20Coaster.ipynb)
+  2. [Data Visualisation Portfolio Project - Life Expectancy and GDP](https://nbviewer.jupyter.org/github/f-tailor/codecademy_projects/blob/main/Data%20Visualisation/Data%20Visualisation%20Portfolio%20Project%20-%20Life%20Expectancy%20and%20GDP.ipynb)
